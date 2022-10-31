@@ -1,0 +1,16 @@
+title;isbn;authors;publishedAt
+Beautiful cooking;5454-5587-3210;null-walter@echocat.org;21.05.2011
+My familie and me;4545-8541-2012;null-mueller@echocat.org;10.07.2011
+Cooking for gourmets;2365-5632-7854;null-lieblich@echocat.org,null-walter@echocat.org;01.05.2012
+Gourmet;2365-8745-7854;null-ferdinand@echocat.org;14.06.2010
+The Wine Connoisseurs;2547-8548-2541;null-walter@echocat.org;12.12.2011
+Vinum;1313-4545-8875;null-gustafsson@echocat.org;23.02.2012
+;angel one;222-853-2229111;;Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel teo;222-853-2229112;;Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel three;222-853-229112;{ _id: new ObjectId("635f24281dbdc39e8ed7d05d") };Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel four;887234-9982;{ _id: new ObjectId("635f24281dbdc39e8ed7d05d") };Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel five;887234-9989;{ _id: new ObjectId("635f24281dbdc39e8ed7d05d") };Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel six;887234-99899;{ _id: new ObjectId("635f24281dbdc39e8ed7d05d") };Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel seven;987234-99899;{ _id: new ObjectId("635f24281dbdc39e8ed7d05d") };Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel eight;987231-99899;{ _id: new ObjectId("635f24281dbdc39e8ed7d05d") };Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
+;angel nine;987231-9989;{ _id: new ObjectId("635f24281dbdc39e8ed7d05d") };Sun Sep 11 2022 05:30:00 GMT+0530 (India Standard Time)
